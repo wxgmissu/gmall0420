@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.sgm.gmall.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class GmallUserApplicationTests {
 
     @Test
     void contextLoads() {
